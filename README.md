@@ -1,4 +1,4 @@
-# PhishAI Detector - Powered by Google Gemini
+# InboxGuard
 
 An AI-powered web application for detecting phishing emails using Google's Gemini API with function calling capabilities.
 
