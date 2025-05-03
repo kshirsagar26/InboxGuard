@@ -1,6 +1,6 @@
 # InboxGuard
 
-An AI-powered web application for detecting phishing emails using Google's Gemini API with function calling capabilities.
+An AI-powered web application for detecting phishing emails using Google's Gemini API with function calling capabilities
 
 ## Features
 
